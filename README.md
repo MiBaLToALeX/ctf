@@ -12,11 +12,11 @@ Flag format: xxx{flag_here}
 
 List: ctf[at]mibaltoalex[dot]com
 
-# FAQ
+## FAQ
 
 - **Do you have a flag?!:** 
 Send the flag to ihaveaflag[at]mibaltoalex[dot]com with your nickname or name.
 
-# Contact
+## Contact
 
 If you have any questions or problems please contact: info[at]mibaltoalex[dot]com
