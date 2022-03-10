@@ -27,20 +27,20 @@ If you have any questions or problems please contact: info[at]mibaltoalex[dot]co
 
 - By donating to the Ukraine Humanitarian Appeal, you'll help DEC charities provide food, water, shelter and healthcare to refugees and displaced families.
 
-https://donation.dec.org.uk/ukraine-humanitarian-appeal
+[https://donation.dec.org.uk/ukraine-humanitarian-appeal](https://donation.dec.org.uk/ukraine-humanitarian-appeal){:target="_blank"}
 
 - Save the Children is distributing essential supplies and winter kits of clothing and blankets, providing cash and financial assistance to families to meet basic needs such as food and medicines, and offering mental health support to children and their families. It suggests that a donation of £12 could help a victim of the violence access legal help or safe shelter. 
 
-https://www.savethechildren.org.uk/donate-here
+[https://www.savethechildren.org.uk/donate-here](https://www.savethechildren.org.uk/donate-here){:target="_blank"}
 
 - The International Committee of the Red Cross is working closely with the Ukrainian Red Cross Society to provide emergency assistance and support local hospitals and primary healthcare facilities with medical equipment.
 
 The URCS is also supporting local firefighters, medical and civil protection units and helping to repair vital infrastructure. Its volunteers are providing first aid training to 1,000 people in metro stations and bomb shelters. You can donate online.
 
-https://www.icrc.org/en/donate/ukraine
+[https://www.icrc.org/en/donate/ukraine](https://www.icrc.org/en/donate/ukraine){:target="_blank"}
 
 - Unicef has staff in the country in several locations and is helping to provide families with access to clean water and food, as well as psychosocial support for traumatised children, recreation kits and learning kits. “Needs are wide, ranging from hygiene products to blankets, gas burners and first aid kits,” Afshan Khan, the Unicef regional director for Europe and central Asia, says. In recent days, the charity said heavy weapons fire along the contact line in eastern Ukraine had damaged water infrastructure and schools.
 
 It estimates there are up to 7.5 million children in need of support and says a £46 donation will provide a family with an emergency water and hygiene kit. Donations can be made online or over the phone: 0300 330 5699.
 
-https://www.unicef.org.uk/donate/donate-now-to-protect-children-in-ukraine/
+[https://www.unicef.org.uk/donate/donate-now-to-protect-children-in-ukraine/](https://www.unicef.org.uk/donate/donate-now-to-protect-children-in-ukraine/){:target="_blank"}
