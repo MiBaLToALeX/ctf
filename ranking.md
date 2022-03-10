@@ -1,6 +1,6 @@
 # Ranking 
 
-## Ranking TOP 50
+## TOP 50
 
 | # | Nick | Contact | Donated | Point(s)  | Badge(s)  |
 |:---|:---:|---|---:|---:|---|
