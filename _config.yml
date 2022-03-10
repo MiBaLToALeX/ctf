@@ -1,3 +1,13 @@
+twitter_username: mibaltoalex
+github_username:  mibaltoalex
+gitlab_username:  mibaltoalex
+author: Miguel J. Carmona
+email: support@mibaltoalex.com
+version: 22.3.1011
 theme: jekyll-theme-leap-day
 kramdown:
   input: Kramdown
+webrick:
+  headers:
+    server: mws
+    X-Ray-MWS: mws-proto-mbx-1
