@@ -12,7 +12,7 @@ Flag format: xxx{flag_here}
 - https://github.com/MiBaLToALeX/*
 
 
-List: ctf[at]mibaltoalex[dot]com
+Notification List: ctf[at]mibaltoalex[dot]com
 
 ## FAQ
 
