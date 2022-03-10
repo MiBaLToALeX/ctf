@@ -17,7 +17,7 @@ Notification List: ctf[at]mibaltoalex[dot]com
 ## FAQ
 
 - **Do you have a flag?!:** 
-Send the flag to ihaveaflag[at]mibaltoalex[dot]com with your nickname or name, donated money and I will add your name to the [Ranking](RANKING.md) with your points, badges and amount of money donated.
+Send the flag to ihaveaflag[at]mibaltoalex[dot]com with your nickname or name, donated money and I will add your name to the [Ranking](ranking.md) with your points, badges and amount of money donated.
 
 ## Contact
 
