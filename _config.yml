@@ -11,3 +11,7 @@ webrick:
   headers:
     server: mws
     X-Ray-MWS: mws-proto-mbx-1
+
+
+exclude:
+   - README.md
