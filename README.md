@@ -1,4 +1,4 @@
-# MIBALTOALEX CTF
+# MIBALTOALEX CTF Solidarity for Ukraine
 
 MIBALTOALEX CTF is a Capture The Flag (CTF) solidarity for Ukraine.
 
