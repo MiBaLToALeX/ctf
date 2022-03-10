@@ -1,5 +1,7 @@
 # Ranking 
 
+## Ranking TOP 50
+
 | # | Nick | Contact | Donated | Point(s)  | Badge(s)  |
 |:---|:---:|---|---:|---:|---|
 | 1 | - | - | ? | 0 | - |
@@ -52,3 +54,7 @@
 | 48 | - | - | ? | 0 | - |
 | 49 | - | - | ? | 0 | - |
 | 50 | - | - | ? | 0 | - |
+
+---
+
+## [More info](https://ctf.mibaltoalex.com)
