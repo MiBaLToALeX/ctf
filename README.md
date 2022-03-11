@@ -8,8 +8,7 @@ Flag format: xxx{flag_here}
 
 ## Scope(s)
 
-- *.mibaltoalex.com
-- https://github.com/MiBaLToALeX/*
+[Show](https://ctf.mibaltoalex.com/#scopes)
 
 
 Notification List: ctf[at]mibaltoalex[dot]com
