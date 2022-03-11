@@ -8,9 +8,9 @@ Flag format: xxx{flag_here}
 
 ## Scope(s)
 
-- *.mibaltoalex.com
-- https://github.com/MiBaLToALeX/*
-- https://www.youtube.com/playlist?list=PLM-OWcpp3mYZNCCc9HE6twQj4fLgnAdS0
+- [*.mibaltoalex.com](https://www.mibaltoalex.com){:target="_blank"}
+- [https://github.com/MiBaLToALeX/*](https://github.com/MiBaLToALeX/){:target="_blank"}
+- [https://www.youtube.com/playlist?list=PLM-OWcpp3mYZNCCc9HE6twQj4fLgnAdS0](https://www.youtube.com/playlist?list=PLM-OWcpp3mYZNCCc9HE6twQj4fLgnAdS0){:target="_blank"}
 
 
 Notification List: ctf[at]mibaltoalex[dot]com
