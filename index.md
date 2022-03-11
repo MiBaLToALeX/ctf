@@ -10,6 +10,7 @@ Flag format: xxx{flag_here}
 
 - *.mibaltoalex.com
 - https://github.com/MiBaLToALeX/*
+- https://www.youtube.com/playlist?list=PLM-OWcpp3mYZNCCc9HE6twQj4fLgnAdS0
 
 
 Notification List: ctf[at]mibaltoalex[dot]com
